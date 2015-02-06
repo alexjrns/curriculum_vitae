@@ -39,3 +39,4 @@ Alex Junior Nunes da Silva
         * Ubuntu (Debian)
         * OpenSUSE (SUSE)
         * CentOS (RedHat)
+	* MAC OS Leopard
