@@ -15,21 +15,23 @@ Alex Junior Nunes da Silva
 * **Inglês** Lê bem, Escreve bem, Fala razoavelmente
 
 ###Outras informações de experiência###
-* **Linguagens de programação:** Java, C, Pascal, VB.NET, Objective Pascal (Delphi), Javascript
+* **Linguagens de programação:** Java, C, Pascal, VB.NET, Objective Pascal (Delphi), Javascript, Python, R
 * **Padrões de projeto:** MVC, Data Access Object
 * **Gerenciamento de Projeto:** Kanban, Kaizen, 5s, PMBok, Scrum
 * **Object-relational mapping:** JPA/Hibernate
-* **Banco de Dados:** Postgresql, SQL Server, Firebird
+* **Banco de Dados:** Postgresql, SQL Server, MySql, Firebird
+* **Desenvolvimento Móvel:** Android
 * **Desenvolvimento WEB:** Servlet, JSP, EL, jQuery, jSon, Bootstrap, HTML5, CSS3, XML, W3C
 * **WEBServices:** Apache Tomcat, Glassfish
 * **UML:** Astah, Erwin
 * **Sistemas de Controle de Versão:** GIT, SVN e JediVCS
 * **Virtualização:** VMWare, VMBox
+* **Relatórios:** Jasper Reports, Pentaho Report Designer
+* **BigData:** Apache Hadoop, MapReduce, HDFS
 * **Business Intelligence:** Suíte Pentaho
     * ETL com Kettle (PDI)
     * Cubos OLAP com Mondrian
     * Consultas multdimensionais com Saiku e JPivot
-    * Relatórios com Pentaho Report Designer
 * **Sistemas Operacionais** 
     * Windows
         * 7, 8.1, 10
