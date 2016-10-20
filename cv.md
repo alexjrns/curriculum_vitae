@@ -5,6 +5,7 @@ Alex Junior Nunes da Silva
 * **[LinkedIn](https://br.linkedin.com/pub/alex-junior-nunes-da-silva/52/530/40)**
 
 ###Formação acadêmica###
+* **2016** - Mestrado Profissional em Computação Aplicada (Inteligência Computacional). Universidade Tecnologica Federal do Paraná (UTFPR)
 * **2013 - 2016** - Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas. Universidade Tecnologica Federal do Paraná (UTFPR)
 
 ###Atuação Profissional###
@@ -16,12 +17,12 @@ Alex Junior Nunes da Silva
 
 ###Outras informações de experiência###
 * **Linguagens de programação:** Java, C, Pascal, VB.NET, Objective Pascal (Delphi), Javascript, Python, R
-* **Padrões de projeto:** MVC, Data Access Object
+* **Padrões de projeto:** MVC, Data Access Object, Todos os padrões do GOF (criacionais, estruturais e comportamentais)
 * **Gerenciamento de Projeto:** Kanban, Kaizen, 5s, PMBok, Scrum
-* **Object-relational mapping:** JPA/Hibernate
+* **Object-relational mapping:** JPA, Hibernate, EclipseLink
 * **Banco de Dados:** Postgresql, SQL Server, MySql, Firebird
-* **Desenvolvimento Móvel:** Android
-* **Desenvolvimento WEB:** Servlet, JSP, EL, jQuery, jSon, Bootstrap, HTML5, CSS3, XML, W3C
+* **Desenvolvimento Móvel:** Android, Delphi
+* **Desenvolvimento WEB:** JSF, CDI, Maven, Servlet, JSP, EL, jQuery, jSon, Bootstrap, Primefaces, HTML5, CSS3, XML, W3C
 * **WEBServices:** Apache Tomcat, Glassfish
 * **UML:** Astah, Erwin
 * **Sistemas de Controle de Versão:** GIT, SVN e JediVCS
